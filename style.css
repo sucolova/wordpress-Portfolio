@@ -3795,3 +3795,8 @@ ul.footer-nav {
 	}
 
 }
+
+#respond {
+	display: none;
+	visibility: hidden;
+}
